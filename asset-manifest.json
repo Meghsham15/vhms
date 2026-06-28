@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/vhms/static/css/main.85024a7a.css",
-    "main.js": "/vhms/static/js/main.a21654ba.js",
+    "main.js": "/vhms/static/js/main.cbb5be66.js",
     "static/js/453.f1fd10ab.chunk.js": "/vhms/static/js/453.f1fd10ab.chunk.js",
+    "static/media/inaugration.mp4": "/vhms/static/media/inaugration.dd49af36134270071ba0.mp4",
+    "static/media/team-banner.jpeg": "/vhms/static/media/team-banner.0073c1ee839bc3358815.jpeg",
+    "static/media/video-thumbnail.jpeg": "/vhms/static/media/video-thumbnail.79235e3d7d2c9fdf7a42.jpeg",
     "index.html": "/vhms/index.html",
     "main.85024a7a.css.map": "/vhms/static/css/main.85024a7a.css.map",
-    "main.a21654ba.js.map": "/vhms/static/js/main.a21654ba.js.map",
+    "main.cbb5be66.js.map": "/vhms/static/js/main.cbb5be66.js.map",
     "453.f1fd10ab.chunk.js.map": "/vhms/static/js/453.f1fd10ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85024a7a.css",
-    "static/js/main.a21654ba.js"
+    "static/js/main.cbb5be66.js"
   ]
 }
